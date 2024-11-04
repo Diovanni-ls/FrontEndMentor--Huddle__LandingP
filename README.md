@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: []([https://your-solution-url.com](https://www.frontendmentor.io/solutions/huddle-landing-page-responsivo-para-telas-menores-f5Yiu3u2EZ))
+- Solution URL: [](https://www.frontendmentor.io/solutions/huddle-landing-page-responsivo-para-telas-menores-f5Yiu3u2EZ)
 - Live Site URL: [](https://front-end-mentor-huddle-landing-page-eta.vercel.app)
 
 ## My process
