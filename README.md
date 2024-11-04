@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/huddle-landing-page-responsivo-para-telas-menores-f5Yiu3u2EZ)
-- Live Site URL: [](https://front-end-mentor-huddle-landing-page-eta.vercel.app)
+- Solution URL: [Solução FrontEndMentor](https://www.frontendmentor.io/solutions/huddle-landing-page-responsivo-para-telas-menores-f5Yiu3u2EZ)
+- Live Site URL: [Live Server Site](https://front-end-mentor-huddle-landing-page-eta.vercel.app)
 
 ## My process
 
@@ -79,7 +79,7 @@ sinto que ainda  tenho muito a aprender sobre a responsividade e como posso melh
 
 ## Author
 
-- Linkedin - [Diovanni Lucas](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/Diovanni-ls)
+- Linkedin - [Diovanni Lucas](https://www.linkedin.com/in/diovanni-ls2004/)
+- Frontend Mentor - [@Diovanni-ls](https://www.frontendmentor.io/profile/Diovanni-ls)
 
 
